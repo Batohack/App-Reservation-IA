@@ -95,23 +95,4 @@ docker-compose up -d
 
 ```
 
-***
 
-### 💡 Comment le mettre sur GitHub ?
-1. Va sur ton dépôt GitHub.
-2. Clique sur **"Add file"** > **"Create new file"**.
-3. Nomme le fichier : `README.md` (très important de garder l'extension `.md`).
-4. Colle le texte ci-dessus dans la zone d'édition.
-5. Clique sur le bouton vert **"Commit changes"** en bas.
-
-### ✅ Dernière étape du TP :
-Une fois le fichier enregistré :
-1. Copie l'adresse URL de ton dépôt (ex: `https://github.com/ton-nom/App-Reservation-IA`).
-2. Retourne dans **Jira**.
-3. Ouvre ta tâche **WEB-11** (Configuration du Repository Git).
-4. Colle le lien dans la section **"Liens web"** ou en commentaire.
-5. Déplace le ticket dans la colonne **"TERMINÉ"**.
-
-**Félicitations ! Ton TP est maintenant bouclé de manière professionnelle. Est-ce qu'il y a un autre point que tu souhaites vérifier avant de rendre le travail ?**
-
-```
